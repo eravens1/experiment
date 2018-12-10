@@ -3,3 +3,5 @@ This is an experiment to see if I'm pushing with Git Bash correctly
 Hopefully this message appears on GitHub *fingers crossed*
 
 Now I'm experimenting with branching
+
+This is new text that should only appear in the "git-bash-branch" branch
